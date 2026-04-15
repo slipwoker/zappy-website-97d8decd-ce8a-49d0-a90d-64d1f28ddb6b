@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נמאס לך להתעורר עם כאבי צוואר וגב? EIGHTEEN 70 מציגה כריות אורטופדיות בעיצוב פורץ דרך שמשלבות טכנולוגיה מתקדמת עם סטייל. גלה את הכרית המומלצת שלנו ותתחיל לישון אחרת.
+
+### טכנולוגיית שינה
+https://example.com/sleep-technology
+גלה איך טכנולוגיית השינה המתקדמת של EIGHTEEN 70 פועלת כדי לאזן את עמוד השדרה שלך בלילה. כרית אורטופדית לשינה טובה יותר — מבוססת מדע, מעוצבת לחיים.
+
+### סיפור המותג
+https://example.com/brand-story
+EIGHTEEN 70 נולד מתוך רצון לשבור את המוסכמות: כריות אורטופדיות לא חייבות להיות משעממות. קרא את הסיפור שמאחורי המותג שמחבר בין עיצוב אורבני לבין שינה בריאה ונכונה.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על הכרית האורטופדית שלנו או רוצה לדעת איזה מוצר מתאים לך? צוות EIGHTEEN 70 כאן בשבילך — צור קשר עכשיו וקבל המלצה אישית לשינה טובה יותר ללא כאבי צוואר.
+
+### Products
+https://example.com/products
+המוצרים שלנו - EIGHTEEN 70
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - EIGHTEEN 70
+
+### Category
+https://example.com/category/:slug
+מוצרים - EIGHTEEN 70
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
